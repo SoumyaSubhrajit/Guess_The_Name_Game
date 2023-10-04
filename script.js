@@ -1,6 +1,5 @@
 'use strict';
 
-// Tell me the inner text within the <h1> tag.
 // const title = document.querySelector('.title').innerHTML;
 // console.log(title);
 
