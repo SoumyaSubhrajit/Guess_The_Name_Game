@@ -1,7 +1,7 @@
 'use strict';
 
 // const title = document.querySelector('.title').innerHTML;
-// console.log(title);
+
 
 // // This is change the text in the <h1>...
 // document.querySelector('.title').textContent = "Bagh"
