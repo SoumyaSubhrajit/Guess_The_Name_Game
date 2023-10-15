@@ -1,6 +1,5 @@
 'use strict';
 
-// const title = document.querySelector('.title').innerHTML;
 
 
 
