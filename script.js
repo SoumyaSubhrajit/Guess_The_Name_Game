@@ -3,7 +3,7 @@
 
 
 
-// document.querySelector('.title').textContent = "Bagh"
+// document.querySelector('.title').textContent
 
 
 // document.querySelector('.message').textContent = "My way or sky way!!"
