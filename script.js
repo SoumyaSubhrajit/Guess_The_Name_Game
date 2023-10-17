@@ -3,8 +3,6 @@
 
 
 
-// document.querySelector('.title').textContent
-
 
 // document.querySelector('.message').textContent = "My way or sky way!!"
 
