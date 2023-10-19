@@ -4,7 +4,7 @@
 
 
 
-// document.querySelector('.message').textContent = "My way or sky way!!"
+// document.querySelector('.message').textContent
 
 // // In the case of input tag to chnage the value of the input field use .value method
 // document.querySelector('.guess').value = 44;
