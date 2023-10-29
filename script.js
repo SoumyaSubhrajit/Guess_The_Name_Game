@@ -10,7 +10,7 @@
 // document.querySelector('.guess').value = 44;
 
 //   document.querySelector('.guess').value;
-// console.log(value);
+// console.log(value)
 
 
 // ============ Game starts ===//
