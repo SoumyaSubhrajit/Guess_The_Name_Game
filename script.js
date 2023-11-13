@@ -7,7 +7,7 @@
 
 
  // In the case of input tag to chnage the value of the input field use .value method
-// document.querySelector('.guess').value 
+// document.querySelector('.guess').value = 4;
 
 //   document.querySelector('.guess').value;
 // console.log(value)
